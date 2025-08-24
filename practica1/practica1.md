@@ -116,7 +116,7 @@ Desafíos: La principal dificultad surgió al visualizar la señal en el oscilos
 <img width="900" alt="Captura desde 2025-08-20 17-42-28" src="https://github.com/user-attachments/assets/db04581c-187b-4b20-ad4d-4d082a6f89f2" />
 <img width="900" alt="Captura desde 2025-08-20 17-41-12" src="https://github.com/user-attachments/assets/a30ec5fa-2787-428a-ab9a-de74dc9fe321" />
 
-Se adjuntan imagenes extra de de múltiples señales detectadas con el SDR, la primera corresponde a
+Se adjuntan imagenes extra de de múltiples señales detectadas con el SDR, la primera se encuentra en la banda al rededor de 1455–1468 MHz que podria corresponder a satélites de comunicaciones o meteorológicos. La segunda está entre 490–494 MHz que podria corresponder a la televisión digital terrestre. La tercera parece mostrar múltiples señales del mismo tipo al anterior, y en la banda de 178–190 MHz es posible encontrar televisión analógica/digital.
 
 -----------------------------------------------------------------------
 
