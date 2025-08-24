@@ -16,7 +16,7 @@ Evidencia:
  
 Se encontraron dos emisoras de radio ubicadas en las frecuencias 99.7 MHz y 103.7 MHz, la primera corresponde a la FM mientras la segunda corresponde a El Sol, siendo esta ultima la mas potente observada, tambien se encontró una señal de servicio móvil ubicada en los 900 MHz, a diferencia de las señales de radio esta tenia un ancho de banda mas estrecho evidenciado por la visualización en cascada que muestra una linea delgada. A demás de estas señales que fueron las que mas nos llamaron la atención, también se encontraban otras emisoras como la 90.7 correspondiente a W Radio o la 96.9 correspondiente a la UIS estéreo.
 
- <img width="1920" height="1080" alt="103_7" src="https://github.com/user-attachments/assets/7fde7146-40a0-414b-8fde-34c887dfb7db" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/c1bde45e-80aa-4fd5-9de0-542567079cbe" />
 
 --------------------------------------------------------------------
 
@@ -111,10 +111,12 @@ Conexión Tiempo-Frecuencia: Consideramos que el pico en el analizador de espect
 
 Desafíos: La principal dificultad surgió al visualizar la señal en el osciloscopio, ya que al tratarse de una frecuencia elevada (103.7 MHz) se requería ajustar correctamente la pantalla poder visualizarla, la baja amplitud de la señal obligó a optimizar la escala vertical y usar promedios para reducir el ruido. También fue necesario probar las diferentes herramientas y botones disponibles en el osciloscopio con el objetivo de medir la tension pico a pico y la frecuencia de manera precisa
 
-<img width="1920" height="1080" alt="Captura desde 2025-08-20 17-43-38" src="https://github.com/user-attachments/assets/47097905-ecf0-43fd-bc10-78df85a52877" />
-<img width="1920" height="1080" alt="Captura desde 2025-08-20 17-42-57" src="https://github.com/user-attachments/assets/60470671-14ec-4932-843a-91a0715aa70c" />
-<img width="1920" height="1080" alt="Captura desde 2025-08-20 17-42-28" src="https://github.com/user-attachments/assets/db04581c-187b-4b20-ad4d-4d082a6f89f2" />
-<img width="1920" height="1080" alt="Captura desde 2025-08-20 17-41-12" src="https://github.com/user-attachments/assets/a30ec5fa-2787-428a-ab9a-de74dc9fe321" />
+<img width="900" alt="Captura desde 2025-08-20 17-43-38" src="https://github.com/user-attachments/assets/47097905-ecf0-43fd-bc10-78df85a52877" />
+<img width="900" alt="Captura desde 2025-08-20 17-42-57" src="https://github.com/user-attachments/assets/60470671-14ec-4932-843a-91a0715aa70c" />
+<img width="900" alt="Captura desde 2025-08-20 17-42-28" src="https://github.com/user-attachments/assets/db04581c-187b-4b20-ad4d-4d082a6f89f2" />
+<img width="900" alt="Captura desde 2025-08-20 17-41-12" src="https://github.com/user-attachments/assets/a30ec5fa-2787-428a-ab9a-de74dc9fe321" />
+
+Se adjuntan imagenes extra de de múltiples señales detectadas con el SDR, la primera corresponde a
 
 -----------------------------------------------------------------------
 
